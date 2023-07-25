@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "adde342b9510e5813a140cad87a2e010",
-"assets/AssetManifest.json": "c0478cdc45c776a6287977c10cb3eca5",
+const RESOURCES = {"assets/AssetManifest.bin": "0fbb231c8d5bf9bc1288b0f5113627e3",
+"assets/AssetManifest.json": "7921d71bb7538554734beb1befabdfd7",
 "assets/assets/animation/animation_bottom.riv": "8395d1c4f9ab1db52cdf7670c3d1d2ac",
 "assets/assets/animation/how_generic_design_can_actually_hurt_your_brand.riv": "eeeb7aaeb825111b5bf8a5e9a3491126",
 "assets/assets/animation/logo_animate_2.riv": "5b7e9415703be8c73147e68383af197d",
@@ -31,6 +31,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "adde342b9510e5813a140cad87a2e010
 "assets/assets/images/logos/logo_with_text.png": "948bf6bc2a81d346d2ddff8c04a19e47",
 "assets/assets/images/logos/new/Group%25205%2520(1).png": "365131c4d85c70597d714d8ba1bffdd3",
 "assets/assets/images/logos/new/Group%25206%2520(1).png": "60cedd4c3b6ed5b8385c5b02fd9087a6",
+"assets/assets/images/logos/new/Group%25206.svg": "f8f13fd454ddc4ff33fb048e9fd3dc97",
 "assets/assets/images/logos/new/Group%25207%2520(1).png": "cfd2bf15e6646ed1af3f859500e000ac",
 "assets/assets/images/logos/new/Group%25207%2520(2).png": "13e1732dd42e16cc3967ba0080ee0a0c",
 "assets/assets/images/NewUiImages/Ellipse%2520110%2520(Stroke).png": "e568d9283c365bcd321c5d4b101be6cf",
@@ -66,9 +67,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "adde342b9510e5813a140cad87a2e010
 "icons/favicon-96x96.png": "fb3be17e3e3276a8b8ecd4172f74dac7",
 "icons/favicon.ico": "c39f26a03708f6e29d5638bb2a79ea83",
 "img/logo_loop.gif": "6490548e1f023cfa75de685e110a27bf",
-"index.html": "9a1f2cf41c6b89c6d2f726945a61c9e6",
-"/": "9a1f2cf41c6b89c6d2f726945a61c9e6",
-"main.dart.js": "a219c77d352d39f583b3ad1efe15cf00",
+"index.html": "d131d100da38637822c52fbe7a532d97",
+"/": "d131d100da38637822c52fbe7a532d97",
+"main.dart.js": "a2d2a5584f5c4bf7cdbc61b52f1fcee1",
 "manifest.json": "4344eb97229f6d7646e45ec33243f23a",
 "styles.css": "3b5d729f9e4413fa38f7d94b3d42ca16",
 "version.json": "0ebb02851244b0f95c021b7ac24aa922"};
